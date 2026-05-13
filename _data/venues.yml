@@ -1,0 +1,27 @@
+"ICLR":
+  url: https://iclr.cc/
+  color: "#1f5fa8"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#6b21a8"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#0b6e4f"
+
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#b91c1c"
+
+"ICCV":
+  url: https://iccv.thecvf.com/
+  color: "#a16207"
+
+"ECCV":
+  url: https://eccv.ecva.net/
+  color: "#0f766e"
+
+"T-PAMI":
+  url: https://www.computer.org/csdl/journal/tp
+  color: "#1e3a8a"
